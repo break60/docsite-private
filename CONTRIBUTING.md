@@ -1,7 +1,7 @@
 # 代码贡献规范
 
-有任何疑问，欢迎提交 [issue](https://github.com/chengshiwen/docsite-ext/issues)，
-或者直接修改提交 [PR](https://github.com/chengshiwen/docsite-ext/pulls)!
+有任何疑问，欢迎提交 [issue](https://github.com/break60/docsite-private/issues)，
+或者直接修改提交 [PR](https://github.com/break60/docsite-private/pulls)!
 
 ## 代码提交
 

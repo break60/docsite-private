@@ -1,8 +1,8 @@
 {
-  "name": "docsite-ext",
+  "name": "docsite-private",
   "version": "1.4.3",
   "description": "an extended tool for build static doc site(react)",
-  "repository": "https://github.com/chengshiwen/docsite-ext",
+  "repository": "https://github.com/break60/docsite-private",
   "bin": {
     "docsite": "./bin/docsite.js"
   },

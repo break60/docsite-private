@@ -3,10 +3,10 @@
 [![NPM version][npm-image]][npm-url]
 [![npm download][download-image]][download-url]
 
-[npm-image]: https://img.shields.io/npm/v/docsite-ext.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/docsite-ext
-[download-image]: https://img.shields.io/npm/dm/docsite-ext.svg?style=flat-square
-[download-url]: https://npmjs.org/package/docsite-ext
+[npm-image]: https://img.shields.io/npm/v/docsite-private.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/docsite-private
+[download-image]: https://img.shields.io/npm/dm/docsite-private.svg?style=flat-square
+[download-url]: https://npmjs.org/package/docsite-private
 
 # Docsite extension
 
@@ -55,7 +55,7 @@ Docsite extension is an extension of Docsite.
 - Install
 
 ```
-$ npm i -g docsite-ext
+$ npm i -g docsite-private
 ```
 
 - Init a project
